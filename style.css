@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Dongle&family=Josefin+Sans&family=Noto+Serif:wght@700&family=Poppins:wght@400;500&family=Roboto+Slab&display=swap');
+.bg-info{
+    background-color: #FEEAE9 !important;
+}
+.bg-dark{
+    background-color: #FF9C35 !important;
+}
+.btn-warning{
+    color: white;
+    background-color: #FF589B;
+    border-radius: 10px;
+    padding: 9px 25px;
+    border: none;
+}
+.poms-gallery-color{
+    color: #FFA1AC;
+    font-family: 'Dancing Script', cursive;
+}
